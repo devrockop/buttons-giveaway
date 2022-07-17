@@ -1,10 +1,10 @@
 {
-  "name": "buttons-giveaway",
+  "name": "arroyo-bot",
   "version": "0.1.0",
-  "description": "Giveaway bot with discord-buttons",
+  "description": "i am arroyo ",
   "main": "index.js",
   "keywords": ["buttons", "giveaway"],
-  "author": "zMelihStrqfe",
+  "author": "devrock",
   "license": "ISC",
   "dependencies": {
     "croxydb": "0.0.7",
